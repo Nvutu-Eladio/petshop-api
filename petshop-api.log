@@ -1,0 +1,101 @@
+2023-02-21T00:17:49.572Z [petshop-api] error POST  - res is not defined
+2023-02-21T00:19:01.766Z [petshop-api] error GET  - relation "propietarios" does not exist
+2023-02-21T00:21:15.709Z [petshop-api] info GET /propietario
+2023-02-21T00:22:20.343Z [petshop-api] info GET /propietario
+2023-02-21T00:22:24.327Z [petshop-api] error POST  - res is not defined
+2023-02-21T00:30:57.436Z [petshop-api] info GET /proprietario
+2023-02-21T00:31:17.014Z [petshop-api] error POST  - res is not defined
+2023-02-21T00:31:37.274Z [petshop-api] error POST  - res is not defined
+2023-02-21T00:35:48.277Z [petshop-api] info POST /proprietario - {"proprietario_id":7,"nome":"Nvutu Eladio","telefone":"11913316398"}
+2023-02-21T00:35:55.621Z [petshop-api] info GET /proprietario
+2023-02-22T17:17:52.169Z [petshop-api] info GET /proprietario
+2023-02-22T18:04:49.463Z [petshop-api] info GET /proprietario
+2023-02-22T18:12:52.496Z [petshop-api] info GET /proprietario
+2023-02-22T18:13:09.858Z [petshop-api] error GET  - proprietarioService.getProprietarios is not a function
+2023-02-22T18:13:28.954Z [petshop-api] info GET /proprietario
+2023-02-22T18:13:39.015Z [petshop-api] info GET /proprietario
+2023-02-22T18:13:47.316Z [petshop-api] info GET /proprietario
+2023-02-22T18:13:51.942Z [petshop-api] info GET /proprietario
+2023-02-22T18:15:39.689Z [petshop-api] info GET /proprietario
+2023-02-22T18:48:13.679Z [petshop-api] info GET /proprietario
+2023-02-22T19:17:06.241Z [petshop-api] info PUT /client - {}
+2023-02-22T19:19:35.531Z [petshop-api] info PUT /client - {}
+2023-02-22T19:23:58.706Z [petshop-api] info PUT /client - {}
+2023-02-22T19:29:10.557Z [petshop-api] info PUT /client - {}
+2023-02-22T19:30:46.105Z [petshop-api] error PUT  - Proprietario ID, Nome e Telefone são obrigatórios.
+2023-02-22T19:31:07.809Z [petshop-api] error PUT  - Proprietario ID, Nome e Telefone são obrigatórios.
+2023-02-22T19:31:31.118Z [petshop-api] info GET /proprietario
+2023-02-22T19:31:53.720Z [petshop-api] error PUT  - Proprietario ID, Nome e Telefone são obrigatórios.
+2023-02-22T19:34:44.744Z [petshop-api] info PUT /client - {}
+2023-02-22T19:36:38.889Z [petshop-api] info PUT /client - {}
+2023-02-22T19:37:07.594Z [petshop-api] info PUT /client - {}
+2023-02-22T19:37:34.510Z [petshop-api] info PUT /client - {}
+2023-02-22T19:37:39.339Z [petshop-api] info GET /proprietario
+2023-02-22T20:22:14.564Z [petshop-api] info PUT /client - {}
+2023-02-22T20:34:31.603Z [petshop-api] info POST /proprietario - {"proprietario_id":8,"nome":"Nvutu Kutabyala","telefone":"11913316398"}
+2023-02-22T20:35:18.111Z [petshop-api] info PUT /client - {}
+2023-02-22T20:35:34.093Z [petshop-api] info GET /proprietario
+2023-02-22T20:45:32.572Z [petshop-api] info PUT /client - {}
+2023-02-22T20:45:35.422Z [petshop-api] info GET /proprietario
+2023-02-22T20:49:05.213Z [petshop-api] info PUT /proprietario - {}
+2023-02-22T20:50:57.536Z [petshop-api] info PUT /proprietario - {}
+2023-02-22T20:51:10.232Z [petshop-api] info GET /proprietario
+2023-02-22T20:51:39.319Z [petshop-api] info PUT /proprietario - {}
+2023-02-22T20:53:19.519Z [petshop-api] info PUT /proprietario - {"proprietario_id":8,"nome":"Manuel Kutabyala","telefone":"11913316398"}
+2023-02-22T20:53:30.338Z [petshop-api] info PUT /proprietario - {"proprietario_id":8,"nome":"Manuel Kutabyala","telefone":"11913316398"}
+2023-02-22T20:53:47.474Z [petshop-api] info PUT /proprietario - {"proprietario_id":8,"nome":"Manuel Kutabyala","telefone":"11913316398"}
+2023-02-22T21:04:44.755Z [petshop-api] info GET /proprietario
+2023-02-22T21:05:11.625Z [petshop-api] error DELETE  - column "proprietarios_id" does not exist
+2023-02-22T21:05:44.669Z [petshop-api] info Delete /proprietario
+2023-02-22T21:05:48.737Z [petshop-api] info GET /proprietario
+2023-02-22T21:33:21.310Z [petshop-api] error POST  - Nome e Telefone são campos obrigatórios 
+2023-02-22T21:33:38.399Z [petshop-api] info POST /animal - {"animal_id":10,"nome":"August","tipo":"Cão","proprietario_id":7}
+2023-02-22T21:37:11.824Z [petshop-api] info GET /animal
+2023-02-22T21:38:19.477Z [petshop-api] info GET /animal
+2023-02-22T21:46:04.089Z [petshop-api] info PUT /animal - {"animal_id":10,"nome":"Rex","tipo":"Cão","proprietario_id":7}
+2023-02-22T21:46:08.751Z [petshop-api] info GET /animal
+2023-02-22T21:48:10.449Z [petshop-api] info POST /animal - {"animal_id":11,"nome":"August","tipo":"Cão","proprietario_id":7}
+2023-02-22T21:48:13.686Z [petshop-api] info GET /animal
+2023-02-22T21:48:28.246Z [petshop-api] info Delete /animal
+2023-02-22T21:48:30.922Z [petshop-api] info GET /animal
+2023-02-22T21:59:08.126Z [petshop-api] info GET /animal
+2023-02-22T22:00:11.248Z [petshop-api] info GET /animal
+2023-02-22T22:04:02.235Z [petshop-api] info POST /animal - {"animal_id":12,"nome":"Totó","tipo":"Cachorro","proprietario_id":6}
+2023-02-22T22:04:17.700Z [petshop-api] info GET /animal
+2023-02-22T22:04:57.218Z [petshop-api] info GET /animal
+2023-02-22T22:28:26.609Z [petshop-api] info GET /animal
+2023-02-22T22:32:23.434Z [petshop-api] info GET /animal
+2023-02-22T22:33:33.682Z [petshop-api] info GET /animal
+2023-02-22T22:33:39.099Z [petshop-api] info GET /animal
+2023-02-22T22:36:11.768Z [petshop-api] info GET /animal
+2023-02-22T22:36:47.540Z [petshop-api] info GET /animal
+2023-02-22T22:37:54.636Z [petshop-api] info GET /animal
+2023-02-22T22:40:58.058Z [petshop-api] info GET /animal
+2023-02-22T22:41:34.137Z [petshop-api] info GET /animal
+2023-02-22T22:51:12.675Z [petshop-api] info GET /animal
+2023-02-22T22:51:22.847Z [petshop-api] info GET /animal
+2023-02-22T22:51:50.464Z [petshop-api] info GET /animal
+2023-02-22T23:16:49.727Z [petshop-api] info GET /animal
+2023-02-22T23:17:54.949Z [petshop-api] info GET /animal
+2023-02-22T23:18:05.873Z [petshop-api] info GET /animal
+2023-02-22T23:18:12.736Z [petshop-api] info GET /animal
+2023-02-22T23:18:31.112Z [petshop-api] info GET /animal
+2023-02-22T23:18:43.470Z [petshop-api] info GET /animal
+2023-02-22T23:19:01.689Z [petshop-api] info GET /proprietario
+2023-02-22T23:20:40.718Z [petshop-api] info GET /proprietario
+2023-02-22T23:21:05.136Z [petshop-api] info GET /animal
+2023-02-22T23:21:19.965Z [petshop-api] info GET /proprietario
+2023-02-22T23:23:40.938Z [petshop-api] info GET /animal
+2023-02-22T23:24:26.663Z [petshop-api] info Delete /animal
+2023-02-22T23:24:38.259Z [petshop-api] info GET /animal
+2023-02-22T23:24:43.945Z [petshop-api] info GET /animal
+2023-02-22T23:43:21.167Z [petshop-api] info GET /animal
+2023-02-22T23:43:42.928Z [petshop-api] info GET /animal
+2023-02-22T23:44:03.458Z [petshop-api] info GET /animal
+2023-02-22T23:44:25.076Z [petshop-api] info GET /animal
+2023-02-22T23:45:00.732Z [petshop-api] info GET /animal
+2023-02-22T23:46:02.668Z [petshop-api] info GET /proprietario
+2023-02-22T23:46:09.889Z [petshop-api] info GET /proprietario
+2023-02-22T23:47:12.847Z [petshop-api] info GET /animal
+2023-02-22T23:47:42.357Z [petshop-api] info GET /proprietario
+2023-02-22T23:47:59.813Z [petshop-api] info GET /animal
